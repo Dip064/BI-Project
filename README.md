@@ -1,0 +1,5 @@
+<img src="https://kommodo.ai/i/Bx8c8qsNFFlflJvHWRbW" alt="PowerBI Dashboard">
+
+This Power BI dashboard provides a comprehensive analysis of mobile sales performance by tracking key business metrics such as total revenue, units sold, customer behavior, brand performance, and payment trends. The dashboard helps identify top-performing mobile brands, high-revenue cities, customer purchasing patterns, and preferred payment methods through interactive visualizations and KPI cards.
+The analysis reveals strong sales contributions from brands like Apple Inc., Samsung Electronics, and OnePlus, while cities such as Delhi and Mumbai generated the highest revenue. The dashboard also highlights customer ratings, purchasing trends across different days and months, and payment preferences including UPI, credit card, debit card, and cash transactions.
+By using dynamic filters, charts, and data-driven insights, this dashboard enables stakeholders to monitor sales performance, understand customer preferences, and support strategic business decisions for improving sales growth and customer engagement.
